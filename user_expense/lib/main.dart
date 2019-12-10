@@ -9,7 +9,7 @@ void main() {
   //   [
   //     DeviceOrientation.portraitUp,
   //   ],
-  // );
+  // ); // Only run on portrait 
   runApp(MyApp());
 }
 
